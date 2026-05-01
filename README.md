@@ -1,12 +1,12 @@
   # Ransomware 
-Esse um codigo malicioso que descriptografa 
+Esse é um codigo malicioso
 
-  # Função 
-Sua função é descriptografa dados que foi criptografado atraves da chave que foi criada 
-pelo sclipt de criptografia 
+ # função 
+É usado para descriptografa dados que foram criptografado atraves da chave 
+que foi criado pelo codigo de criptografia 
 
-  # Criação 
-Esse codigo foi criado em python 
+ # Criação 
+Esse codigo foi criado em python
 
-  # Execução 
-python ./DCRIP_RANSOM.PY
+ # Execução 
+python./DCRIP_RANSOM.PY
